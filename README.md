@@ -48,8 +48,8 @@
 ## Connect with Me 📞
 
 - **YouTube**: [ViperHub](https://www.youtube.com/@ViperHubOffl)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/aruneshwaran19)
-- **Email**: [Mail Id](mailto:aruneshwaran.v19@gmail.com)
+- **LinkedIn**: [Aruneshwaran](https://www.linkedin.com/in/aruneshwaran19)
+- **Email**: [aruneshwaran.v19@gmail,com](mailto:aruneshwaran.v19@gmail.com)
 
 Feel free to explore my repositories and connect with me! Let's build something amazing together. ✨
 
